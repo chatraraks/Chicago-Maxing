@@ -1,0 +1,5 @@
+{
+  "name": "The City Remembers",
+  "description": "An AI-powered interactive oral history platform for Chicago, generating era-by-era memoirs of specific locations.",
+  "requestFramePermissions": ["geolocation"]
+}

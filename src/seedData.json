@@ -1,0 +1,52 @@
+{
+  "215 N Peoria St": {
+    "neighborhood": "Fulton Market",
+    "eras": [
+      {
+        "id": "origins",
+        "title": "Origins (1830s–1900)",
+        "monologue": "I was born in the mud and the ambition of a young city. Before the brick and the steel, I was just a patch of prairie near the river. By the 1880s, the smell of the stockyards wasn't far, but here, I was becoming a hub of industry. The trains rattled my bones daily.",
+        "pullQuote": "I was born in the mud and the ambition of a young city.",
+        "imagePrompt": "A sepia-toned archival photograph of a Chicago street in the late 1800s, horse-drawn carriages, brick industrial buildings, Fulton Market area.",
+        "imageUrl": "https://picsum.photos/seed/chicago-1880/800/1000?grayscale",
+        "videoUrl": "/evolution.mp4"
+      },
+      {
+        "id": "boom",
+        "title": "The Boom (1900–1940)",
+        "monologue": "The world came to my doorstep. I became a warehouse, a cold storage giant. Men in flat caps hauled crates of poultry and produce through my halls. I was the pantry of the Midwest, bustling with the energy of a thousand merchants.",
+        "pullQuote": "I was the pantry of the Midwest, bustling with the energy of a thousand merchants.",
+        "imagePrompt": "A black and white photograph of a busy Chicago market street in the 1920s, vintage trucks, men in flat caps, industrial warehouses.",
+        "imageUrl": "https://picsum.photos/seed/chicago-1920/800/1000?grayscale",
+        "videoUrl": "/evolution.mp4"
+      },
+      {
+        "id": "turning-point",
+        "title": "The Turning Point (1940–1970)",
+        "monologue": "The war changed us. The pace quickened, then slowed as the highways began to carve up the city. I stood firm while the world around me started to shift. The heavy industry remained, but the whispers of change were in the wind.",
+        "pullQuote": "I stood firm while the world around me started to shift.",
+        "imagePrompt": "A muted, desaturated photograph of a Chicago industrial district in the 1950s, classic cars, brick warehouses, overcast sky.",
+        "imageUrl": "https://picsum.photos/seed/chicago-1950/800/1000?grayscale",
+        "videoUrl": "/evolution.mp4"
+      },
+      {
+        "id": "struggle",
+        "title": "The Struggle (1970–2000)",
+        "monologue": "The lights grew dim for a while. The warehouses emptied, and the grit of the city felt heavier. I was a shell of my former self, covered in soot and silence. But even in the quiet, I remembered the noise of the market.",
+        "pullQuote": "I was a shell of my former self, covered in soot and silence.",
+        "imagePrompt": "A grainy, vivid photograph of a weathered brick building in a quiet Chicago industrial area, 1980s style, urban decay and resilience.",
+        "imageUrl": "https://picsum.photos/seed/chicago-1980/800/1000?grayscale",
+        "videoUrl": "/evolution.mp4"
+      },
+      {
+        "id": "today",
+        "title": "Today & What's Next (2000–present)",
+        "monologue": "Now, the glass and the tech have arrived. They call me 'Fulton Market' with a new kind of reverence. The smell of expensive coffee has replaced the scent of raw poultry. I am reborn, a witness to a new Chicago rising from the old brick.",
+        "pullQuote": "I am reborn, a witness to a new Chicago rising from the old brick.",
+        "imagePrompt": "A crisp, modern photograph of a renovated brick warehouse in Fulton Market, Chicago, trendy restaurants, glass office buildings in the background.",
+        "imageUrl": "https://images.unsplash.com/photo-1506701908217-2a2b24f40215?auto=format&fit=crop&w=800&q=80",
+        "videoUrl": "/evolution.mp4"
+      }
+    ]
+  }
+}
